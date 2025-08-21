@@ -55,7 +55,7 @@ OCR Grade Table Extractor là công cụ giúp tự động **trích xuất dữ
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/Yennguyen124/Tu-dong-nhap-bang-diem-sinh-vien-qua-hinh-anh-bang-ocr.git
+   git clone https://github.com/Yennguyen124/Tu-dong-nhap-bang-diem-sinh-vien-qua-hinh-anh-su-dung-OCR.git
 2. **Cài đặt dependencies**
    ```bash
    pip install -r requirements.txt
