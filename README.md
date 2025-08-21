@@ -116,7 +116,7 @@ OCR Grade Table Extractor là công cụ giúp tự động **trích xuất dữ
 
 <img width="1876" height="1025" alt="image" src="https://github.com/user-attachments/assets/8eb181e1-dbda-4cc0-8758-e6bc31d57b8d" />
 <img width="1505" height="1031" alt="image" src="https://github.com/user-attachments/assets/63862d88-8ee3-4bb0-ab0a-ac1ebff6893f" />
-<img width="1505" height="1031" alt="image" src="https://github.com/user-attachments/assets/308ed8c5-ea4b-41d5-b1b2-572cc1e9442c" />
+<img width="1867" height="1027" alt="image" src="https://github.com/user-attachments/assets/81edc503-0391-44b7-bdb3-f4c68d8b44ed" />
 <img width="1843" height="1023" alt="image" src="https://github.com/user-attachments/assets/9a69ccd7-bba9-4e3e-8e2c-9d1b6c7b1cb9" />
 
 
